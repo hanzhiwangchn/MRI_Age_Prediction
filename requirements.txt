@@ -1,0 +1,34 @@
+certifi==2021.5.30
+click @ file:///Users/runner/miniforge3/conda-bld/click_1621503759047/work
+cycler==0.10.0
+dcor @ file:///home/conda/feedstock_root/build_artifacts/dcor_1615205816598/work
+Deprecated @ file:///home/conda/feedstock_root/build_artifacts/deprecated_1618254172504/work
+h5py==2.10.0
+humanize @ file:///home/conda/feedstock_root/build_artifacts/humanize_1623755663817/work
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+kiwisolver @ file:///opt/concourse/worker/volumes/live/0b2f3e77-eaa3-4995-7dd0-c994762fcbde/volume/kiwisolver_1612282417472/work
+llvmlite==0.36.0
+matplotlib @ file:///opt/concourse/worker/volumes/live/41e8cd50-031f-4dda-5787-dd3c4f4e0f08/volume/matplotlib-suite_1613407855571/work
+nibabel @ file:///home/conda/feedstock_root/build_artifacts/nibabel_1606620997676/work
+numba @ file:///opt/concourse/worker/volumes/live/263a950e-7ddc-4297-63df-0c284f0b6d22/volume/numba_1616774255536/work
+numpy @ file:///opt/concourse/worker/volumes/live/3857d262-8148-48f3-7674-020823e779c0/volume/numpy_and_numpy_base_1620831185725/work
+olefile==0.46
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1612459636436/work
+pandas==1.2.5
+Pillow @ file:///opt/concourse/worker/volumes/live/ca23594b-6e35-4c8c-5637-50ac0b550473/volume/pillow_1617386168018/work
+pydicom @ file:///home/conda/feedstock_root/build_artifacts/pydicom_1607562682046/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+scikit-learn @ file:///opt/concourse/worker/volumes/live/111833a2-339b-4578-413b-7337bb8fe64a/volume/scikit-learn_1598376920601/work
+scipy @ file:///opt/concourse/worker/volumes/live/e4de97e1-2bae-45a3-545f-ff7bf2a2bad2/volume/scipy_1618855945612/work
+SimpleITK==1.2.4
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+torch==1.4.0
+torchaudio==0.4.0a0+ba6d67b
+torchio @ file:///home/conda/feedstock_root/build_artifacts/torchio_1616690688495/work
+torchvision==0.5.0
+tornado @ file:///opt/concourse/worker/volumes/live/05341796-4198-4ded-4a9a-332fde3cdfd1/volume/tornado_1606942323372/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1623518955413/work
+wrapt @ file:///Users/runner/miniforge3/conda-bld/wrapt_1610094933900/work
