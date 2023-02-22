@@ -10,4 +10,4 @@ This repo contains the full implementations of the skewed loss for brain age pre
 
 [More ADC plots](https://github.com/hanzhiwangchn/MRI_Age_Prediction/tree/main/Plots)
 
-Our manuscript has been accecpted by  IEEE TMI☺️
+Our manuscript has been accepted by IEEE TMI: https://ieeexplore.ieee.org/document/9997546
