@@ -1,7 +1,4 @@
-import argparse
-import logging
-import os
-import torch
+import argparse, logging, os, torch
 
 from utils.common_utils import RunManager
 from utils.model_functions import update_args, build_dataset, build_data_loader, \
